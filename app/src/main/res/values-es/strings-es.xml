@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Evaluacion2</string>
+    <string name="button_create">Crear</string>
+	<string name="new_product">Producto</string>
+    <string name="list_empty">No hay productos que mostrar</string>
+</resources>
